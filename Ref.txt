@@ -1,0 +1,36 @@
+All:
+Structural Determinants in the Sequences of Immunoglobulin Variable Domain (1998)
+A New Clustering of Antibody CDR Loop Conformations (2011)
+
+IMGT:  
+IMGT booklet (2011)
+
+Kabat: 
+Sequences of Proteins of Immunological Interest (1983)
+An Analysis of the Sequences of the Variable Regions of Bence Jones Proteins and Myeloma Light Chains and their Implications for Antibody Complementarity (1970)
+Attempts to locate complementarity deteming residues in the variable positions of light and heavy chains (1971)
+The Kabat Database and a Bioinformatics Example (2004)
+Analysis and improvements to Kabat and structurally correct numbering of antibody variable domains (2008) (useless)
+
+Chothia:
+Canonical Structures for the Hypervariable Regions of Immunoglobulins (1987)
+Conformations of immunoglobulin hypervariable regions (1989)
+Structural Repertoire of the Human VH Segments (1992)
+Conformation of Complementarity Determing Region L1 Loop in Murine IgGL Light Chain Extends the Repertoire of Canonical Forms (1993)
+The structural repertoire of the human VK domain (1995)
+Sequence and Evolution of the Human Germline VL Repertoire (1996)
+Standard Conformations for the Canonical Structures of Immunoglobulins (1997)
+Conformations of the Third Hypervariable Region in the VH Domain of Immunoglobulins (1998)
+
+add:
+Structure of a human monoclonal antibody Fab fragment against gp41 of human immunodeficiency virus type 1 (1992)
+Structural classification of CDR-H3 in antibodies (1996)
+A Resolution Structure of an Anti-dinitrophenyl-spin-label Monoclonal Antibody Fab Fragment with Bound Hapten (1991)
+A VH gene is located within 95 Kb of the human immunoglobulin heavy chain constant region genes (1988)
+Conformation of the hypervariable region L3 without the key proline residue (1996)
+Structure of a human monoclonal antibody Fab fragment against gp4l of human immunodeficiency virus type 1 (1992)
+Organization and Evolution of Variable Region Genes of the Human Immunoglobulin Heavy Chain (1986)
+Evolution of Proteins Formed by Beta-Sheets (1982)
+Structural Families in Loops of Homologous Proteins: Automatic Classification, Modelling and Application to Antibodies (1996)
+Major antigen-induced domain rearrangements in an antibody (1993)
+Framework Residue 71 is a Major Determinant of the Position and Conformation of the Second Hypervariable Region in the V H Domains of Immunoglobulins (1990)
