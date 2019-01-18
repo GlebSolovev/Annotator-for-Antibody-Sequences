@@ -1,0 +1,23 @@
+about:
+
+<< North, 2011 >> - "nowadays" article, improving number and accuracy of (Chothia latest) canonical structures
+/and also gives some useful info about possible amino acids of positions located near CDRs
+// written by North, Lehmann and Dunbrack Jr (?)
+// improving number and accuracy of canonical structures due to a bigger data sets nowadays
+/enough amount of ACCURATE (high-resolution) data (about 300 sequences for each CDR)
+/for human, mouse, camel, llama (and other species?) - super useful!
+/data from IMGT database^^
+/commentaries about most of clusters for each CDR - ADD LATER (some useful info to distinguish them better)
+// BUT! here definitions of CDRs are DIFFERENT from Kabat and Chothia - but they can be translated into required ones
+/also comparison Chothia (and Martin and Thornton) canonical structures with theirs
+/comparison with Morea et al. about H3
+// also as CDR-definition image - Extra RR, i.e. positions located near CDRs boundaries and their possible amino acids
+/useful, but inaccurate (because it's just image without any variability info)
+// some Extra RR additions which help to define EACH CDR - super useful! (and very accurate)
+// a table with comparison of the Kabat, Chothia, Martin and this work CDRs boundaries
+/but probably the table is inaccurate so it's better to skip it
+// so that because - Extra RR (positions located near CDRs and their possible amino acids)
+/Extra RRR (highly accurate and detailed canonical structures BUT! some errors caused by translating their CDR definition into requred ones)
+/ADD COMMENTARIES LATER - there is a lot of important info which migth make canonical structures algorithm really accurate!
+
+//add numbers and renew records! NOW

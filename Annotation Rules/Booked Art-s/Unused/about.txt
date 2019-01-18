@@ -1,0 +1,7 @@
+about:
+
+<< Corrections&Improvements, 2008 >> - "nowadays" article suggesting some correstions&improvements to Kabat and Chothia annotation
+// by Abhinandan and Martin (?)
+// correstions&improvements CHANGE Kabat and Chothia annnotation heavily (changes in boundaries and numbering)
+/also we can't be 100% sure about their correctness
+// so that because - unused

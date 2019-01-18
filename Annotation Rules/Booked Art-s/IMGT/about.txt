@@ -1,0 +1,43 @@
+about:
+
+<< IMGT-Booklet, 2011 >> - the latest and the resulting IMGT atricle about all their system, brief and informative
+// by Lefranc et al.
+// briefly about IMGT main concepts and software (ref. to a lot of Lefranc articles)
+// also short&sweet about IMGT UNIQUE NUMBERING FOR V DOMAIN - main information from Lefranc et al. 2003
+// so that because - all IMGT annotation rules (numbering, boundaries, conserved residues, gaps and additional positions)
+/also all obtained info was checked on human germlines (from V-base) (and was made more accurate)
+/be careful! some info is now absence (ADD LATER) about: 
+<< 29, IMGT-Booklet >> the composition of “CDR3-IMGT” is different depending on whether the sequence is germline or rearranged
+
+add more articles! (check IMGT-Booklet more properly for more ref-s)
+// Lefranc 1997, 1999; Lefranc et al. 2003
+/The “FR-IMGT” and “CDR-IMGT” concepts allow one to describe the framework regions and complementarity
+determining regions, respectively, based on the IMGT unique numbering (...)
+/1997 and 1999 - the first ones; 2003 - best about V-DOMAIN
+// check again other IMGT concepts in the IMGT-Booklet
+// Lefranc and Lefranc 2001 a,b
+/the composition of “CDR3-IMGT” is
+different depending on whether the sequence is germline or rearranged
+// Lefranc 2011c
+/IMGT-ONTOLOGY CLASSIFICATION Axiom to IMGT Standardized Gene and Allele Nomenclature:
+For Immunoglobulins (IG) and T Cell Receptors (TR)
+// Lefranc 2011a
+/A detailed description of IMGT is provided in IMGT, the International ImMunoGeneTics Information
+System
+// Giudicelli and Lefranc 1999; Lefranc et al. 2004, 2005a, 2008; Duroux et al. 2008
+/The NUMEROTATION axiom is an axiom of the Formal IMGT-ONTOLOGY or
+IMGT-Kaleidoscope (...)
+// Lefranc et al. 2009
+/The NUMEROTATION axiom has generated the concepts
+of numerotation of IMGT-ONTOLOGY, the global reference in immunogenetics and immunoinformatics,
+built by IMGT (...)
+// Giudicelli et al. 2004; Brochet et al. 2008; Giudicelli and Lefranc 2009
+/These conserved codons and amino acids and their mutations are identified and described
+by IMGT/V-QUEST (...) (about 1st and 2nd CYS, conserved TRP etc.)
+// Alamyar et al. 2010
+/These conserved codons and amino acids and their mutations are identified and described
+by IMGT/V-QUEST and IMGT/HighV-QUEST (...) for nucleotide sequences.
+// Yousfi Monod et al. 2004; Bleakley et al. 2006
+/The “2nd-CYS” 104 and “J-TRP” or “J-PHE” 118 (that belong to the FR3-IMGT and FR4-IMGT, respectively) are the anchors of
+the rearranged CDR3-IMGT. They delimit the “JUNCTION”that spans 104 to 118 and includes them at
+its ends (...)

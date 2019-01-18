@@ -1,0 +1,101 @@
+about:
+
+<< Chothia, 1987 >> - the first article where Chothia annotation fully appears 
+/(= corrections to Kabat annotation using thoughts about proteins' structure)
+// by Chothia and Lesk
+// analysing known structures (from Kabat's database (1983)) using some thoughts about proteins' structure 
+/(bonds, angles and secondary structure elements)
+/but these hypotheses can't be approved surely enough to use them as rules (small amount of data)
+/also thoughts about protein structure don't help annotation as much here (+-)
+// the "canonical structures" concept firstly appears
+// only human and mouse sequnces
+// about amount of data:
+/some hypotheses are made only on small amounts of data (about 60 seq-s or even less!!! (3-4 structures))
+/and some are made on big enough (sometimes so so) amounts of data (about 60-200 for VL and 200 for VH)
+// so that because - some info CAN BE borrowed from this article:
+/(about some secondary structure elements, their connection with lengths of CDRs)
+/but in the later articles it will be more accurate!
+/so - some info about positions and their possible residues, lengths of CDRs
+/and the most important - the first version of Chothia annotation (boundaries)
+/info about add-positions is not stated clearly (better in the later articles)
+
+<< Chothia, 1989 >> - more about the canonical structures (accurate and structured info) for Vk and VH
+// by Chothia et al.
+// Chothia's team became convinced of the "canonical structures" concept 
+/(that it works and exists for L1, L2, L3 and H1, H2)
+/and suggested not many, but accurate canonical structures
+/only for mice and humans
+// so that because - the first canonical structures for Vk and VH of mice and humans
+/(= the basis for the future wider canonical structures)
+/new boundaries of H2 region
+/and correct and accurate info about Chothia's add-positions
+
+<< Chothia, 1992 >> - super detailed and more about (human) VH canonical structures (for H1 and H2 only of course)
+/(3 canonical structures for H1 and 5 for H2)
+/distinguishing into classes and families ("canonical structure classes" - new concept)
+// by Chothia et al.
+// brief, accurate and detailed about CDRs and their boundaries considering in terms of protein structure
+/(+ new boundary of H2)
+// also accurate and clear about each cannonical structure
+/most of these commentaries are already included directly in the info about the canonical structures
+/but they can be checked again later
+// detailed examples to each canonical structure class
+/ + 83 VH segments (74, most of them) distinguished into classes and families (with their full seq-s)
+// the question of the stability of the V-domain appears (which residues, positions do provide stability to the V-domain?)
+/the role of different positions of CDRs in determinig protein structure 
+// based on 83 VH segments with open reading frames, only for human
+/6 VH families (refs to Kodaira et al. 1986, Buluwela & Rabbits 1988 and others)
+/about 31-insertions and Fab fragment of AN02 (refs to Brunger et al. 1991)
+/a lot of refs to Tramontano et al. 1990 throughout the article (about canonical structures)
+// so that because - CDRs boundaries, canonical structures distinguished into families and classes for human H1 and H2
+/+right gaps for the 31, 52 add-positons => for the right numbering
+
+<< Tomlinson, 1995 >> - super detailed, accurate (clear) and more about human Vk canonical structures (for L1, L2 and L3)
+// by Tomlinson, Cox, Gherardi, Lesk and Chothia
+// 736 rearranged Vk genes 
+// 30-40 functional Vk segments, germlines without errors for one human individual
+/ 32 annotated human germlines, distinguished into 6 subgroups (with full sequences)
+// detailed about each human canonical structure for L1, L2 and L3 (with lengths, key residues, gaps and frequencies of appearing)
+/also detailed about their somatic mutations at the key sites (conservative and non-conservative)
+/most (almost all) of these commentaries are already included directly in the info about the canonical structures
+/but they can be checked again later
+// L1, L2 and L3 boundaries
+// 4 cs for L1, 1 cs for L2 and 3 cs for L3 (all for human)
+/about full repertoire of canonical structures for Vk: (refs to Brunger et al. 1991, He et al. 1992 and others (of course to Chothia, see above))
+// so that because - L1, L2 and L3 boundaries and numbering; all human canonical structures for Vk
+/each with detailed info: frequency, length, key residues, positions and their possible amino acids, examples
+
+<< Al-Lazikani, 1997 >> - the latest (and the last original) version of the Chothia canonical structures for all chain types
+/ for L1, L2 and L3 of Vk and V(lambda); for H1 and H2 of VH (+almost nothing about H3)
+/but the amount of high resolution structures is not enough to see all the canonical structures!
+// by Al-Lazikani, Lesk and Chothia
+// 17 immunoglobulin structures accurately determined at high resolution = 79 hypervariable regions in all
+/7 V(lambda), 10 Vk, 15 VH
+// canonical structures for L1, L2 and L3 of Vk and V(lambda), for H1 and H2 of VH
+/each with Kabat and Chothia numbering! => super useful information for the right numbering
+/the most popular with the high resolution examples
+/but the info about the others is NOT present in this article (at best - a lot of refs to another articles)
+/also info about some hydrogen bonds and torsion angles (unused, because for now we don't know how to use it)
+/commentary for each CDR (about protein structure), but not clear and messed-up with a lot of refs to other articles => 
+/but all the useful info (existing there) was accurately obtained
+/only human/not-human marking (and not for all CDRs)
+// the latest CDRs boundaries for L1, L2, L3 (of V(lambda) and Vk, they differs!!!) and for H1, H2
+// see refs: 
+/(Tomlinson et al. 1995 on the Vk structures; Wu & Crygler 1993 on the V(lambda) and others (some are ment above))
+/Martin & Thornton, 1996 about clusters (another concept improving the idea of canonical structures)
+/Bruger et al. 1991, He et al. 1992 and Guarne et al. 1996 (cs #6 - the new one) - about L3 Vk canonical structures
+/Shirai et al. 1996, Martin & Thornton 1996 and Morea et al. 1997 - about H3
+// so that because - 
+/the latest CDR boundaries and CDR numbering => super useful!
+/but for H3 it's NOT stated clearly - 95-102 (similar to Kabat) or 96-101 (in some other nowadays sources)
+/all the Chothia canonical structures named and have their numbering scheme => useful!
+/but for a lot of them there isn't any clear examples, info - only a lot of refs to another articles
+
+<< Guarne, 1996 >> - about (the new found one (on that moment)) canonical structure 6 for L3 of Vk
+// by Guarne et al. (?)
+// canonical structure without key Proline at 94 or 95 positions
+// significant for some murine immunoglobulins (10% of their Vk)
+// brief but clear and accurate about L3 Vk (and several words about V(lambda)) canonical structures
+// so that because - a brief info about Vk canonical structures 
+/and the most important - canonical structure 6 for L3 of Vk (mourine)
+

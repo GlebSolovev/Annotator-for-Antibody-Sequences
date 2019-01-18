@@ -1,0 +1,29 @@
+about:
+
+<< Sequences of Proteins of Immunological Interest, 1983 >> - summarizing article about Kabat annotation
+// by Kabat et al.
+// consider original rules (boundaries and key residues)
+/sets of V,D,J-genes for human, mice and rabbits (+other animals)
+/a huge base of originally annotated sequences
+/info about subgroups, families and allotypes + most common residues for each position for (each) subgroup
+// so that because - boundaries and key residues, special commentaries, invariable residues for both chains
+
+<< Kabat, 1970 >> - one of the earliest article about Kabat annotation
+// by Kabat et al.
+// have a lot of staticstics info about positions, BUT number of selection is too small - maximum only about 60-70 sequences
+/info about Gly and invariant residues
+// so that because - only boundaries and key residues for light chains; 
+/info about invariant Gly (90%) and invariant residues in light chains
+
+<< Kabat, 1971 >> - also one of the earliest article about Kabat annotation
+// by Kabat et al.
+// have some plots obtained from statistics resulting in some info about boundaries
+/a lot of info about Gly
+// so that because - only boundaries and info about invariant Gly for heavy chains
+
+<< Kabat Database, 2004 >> - about Kabat Database (now doesn't exist), a few summarized info about Kabat annotation
+// by Johnson and Wu (Kabat's group)
+// 99% of summarized info refs to observed articles (so it just repeats the previous info)
+// so that because - useless
+/plots that show hypervariable regions really well
+

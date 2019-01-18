@@ -1,0 +1,17 @@
+about:
+
+The main idea of my work is to use ALL the useful information from the original (and near) articles
+of Kabat, Chothia and IMGT TOGETHER to make each annotation MORE ACCURATE.
+Because the annotation of an antibody V-domain - Kabat, Chothia, IMGT, Martin etc. - annotates THE SAME SEQUENCE.
+And the positions, their amino acids and structure conformation are also THE SAME.
+So it's important to use information from all the articles together to make annotation more accurate.
+// The more, all the scientists of that time were writing their articles in the context of the other works (of their colleagues),
+i.e. all the science community which was solving the problem of annotation knew the same, common information 
+which was complementing by each article of its member. 
+So the science community of that time used all their information together too.
+
+So...
+Distinguishing these articles into different folders - it's just the way to make this small bibliotheque 
+more comfortable to use.
+
+Use all this articles, all this info together. And then add a bit of difference to obtain the needed annotation.

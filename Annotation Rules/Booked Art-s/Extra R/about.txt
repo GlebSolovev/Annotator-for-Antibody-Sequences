@@ -1,0 +1,15 @@
+about:
+
+<< Chothia, 1998(All) >> - one of the latest atricle written by Chothia, highly accurate and super useful
+// by Chothia et al.
+// the main idea - to consider the conserved core (invariant sites, closely related and snb)
+/that invariant in the almost most sequences
+// dividing these positions into groups with their possible amino acids
+/also mathematical variability of EACH amino acid - to ADD LATER in the scoring system << 6-9 >>
+/the amount of data is big enough (5300 sequences), a lot of mathematical info in percents (variabilities)
+/all info helps in all annotations! => super useful
+/for all species! (human, mouse, rat, rabbit, shark and other species)
+// so that because - invariant and closely related residues, positions with conserved snb groups
+/positions of the core with their possible amino acids and numerical variabilities
+/works for all sets of annotation rules!!! and for animals!
+
